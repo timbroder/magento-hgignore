@@ -1,0 +1,13 @@
+syntax: regexp
+^\.settings$
+syntax: regexp
+^\.buildpath$
+syntax: regexp
+^\.project$
+
+syntax: regexp
+^app/etc/local\.xml$
+syntax: regexp
+^var$
+syntax: regexp
+^media$ 
